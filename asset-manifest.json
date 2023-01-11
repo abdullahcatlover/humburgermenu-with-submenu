@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/humburgermenu-with-submenu/static/css/main.962276f2.css",
+    "main.js": "/humburgermenu-with-submenu/static/js/main.cd1393c3.js",
+    "index.html": "/humburgermenu-with-submenu/index.html",
+    "main.962276f2.css.map": "/humburgermenu-with-submenu/static/css/main.962276f2.css.map",
+    "main.cd1393c3.js.map": "/humburgermenu-with-submenu/static/js/main.cd1393c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962276f2.css",
+    "static/js/main.cd1393c3.js"
+  ]
+}
